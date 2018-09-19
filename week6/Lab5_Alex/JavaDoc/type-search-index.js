@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"Lab5_RandomLetter","l":"Client"},{"p":"Lab5_RandomLetter","l":"RandomLetterChooser"},{"p":"Lab5_RandomLetter","l":"RandomStringChooser"}]

@@ -1,0 +1,99 @@
+
+
+1. compile
+
+- javac XXX.java -> compile -> hexa(bytecode), nema.class
+- java XXX : excute file 
+
+
+
+
+2. data type
+	1) Primitive : store data(value) into memory
+		- byte(1bytes = 8bits = 8 slots) _ _  _  _  _  _  _  _ (binary ) decimal x
+		- short(2bytes)
+		-* int(4bytes)
+		- long(8, 64 bit)
+		-* char(a character, 1 byte)
+		- float(10.2f 32bit)
+		-* double(10.24	64bits) - more precise
+		-* boolean( )
+
+		#	2^0 + ...+ 2^n = 2^(n+1)-1
+		#	minus
+			8bit -> use only 7bit.
+				first bit : 1 --> -
+				first bit : 0 --> +
+
+				01111111 : 127
+				10000000 : -128
+				11111111 : -1
+
+				10000001
+				
+
+
+	2) Reference : store reference(location)
+
+
+3. run or import
+	1) run
+		- have to have MAIN function
+
+	2) import
+		-
+
+
+4. JVM
+			 (bytecode)	
+	.Java -> .class -> 
+		compile 	JVM(SW)
+
+
+5. errors 
+	1) Compile -time error : red underline
+		- syntax, 
+	2) Run-time error : after run your program, hard to fix
+
+
+6. conditional statements
+	- if - else <-- JS
+	- swich - case
+
+7. loops : for, while 
+	- break	:	stop 
+	- continue :	skip
+
+
+8. operator
+
+	 + - * / % ++ --
+	 && || !
+
+---------------------------------------------------------------------------------
+
+1. Object Oriented
+							class			Car
+	1) state(attributes) -> variables 		color, doors, type
+	2) behaviors(Action) -> methods			drive(), park(), break()
+
+
+	class---
+	|		|-> car1(object, instance) : has different 1),2) 
+	|Car	|-> car2
+	---------
+	blueprint(declear)
+
+	- constructor is a method to create instance : initialize variables
+	- Car myCar = new Car(1,1,1,1) 
+	  type var = new constructor
+
+	- instances 
+		: self contained code, variable, object
+		: New custom data type
+		
+
+
+
+
+

@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"Lab5_Dimensional","c":"Dimensional","l":"arraySum(int[])"},{"p":"Lab5_Dimensional","c":"Dimensional","l":"Dimensional()"},{"p":"Lab5_Dimensional","c":"Dimensional","l":"isDiverse(int[][])"},{"p":"Lab5_Dimensional","c":"Dimensional","l":"main(String[])","url":"main-java.lang.String:A-"},{"p":"Lab5_Dimensional","c":"Dimensional","l":"rowSums(int[][])"}]
